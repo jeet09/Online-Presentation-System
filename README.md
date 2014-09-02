@@ -1,4 +1,4 @@
-Onlnie Presentation System
+Online Presentation System
 =======
 
 This Project allows you to create platform independent online Presentations. 
